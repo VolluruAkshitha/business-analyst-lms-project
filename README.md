@@ -28,5 +28,5 @@ The proposed system will automate enrollment, course management, and payment tra
 
 
 
-!\[LMS Process Flow](docs/images/LMS\_Process\_Flow.png)
+![LMS Process Flow](docs/images/LMS_Process_Flow.drawio.png)
 
