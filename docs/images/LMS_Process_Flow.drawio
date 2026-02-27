@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.6">
+  <diagram name="Page-1" id="89GKXeOtLan5NNS9GXVq">
+    <mxGraphModel dx="1042" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Student Login" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="274.5" y="40" as="sourcePoint" />
+            <mxPoint x="275" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Course" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-16" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="274.5" y="180" as="sourcePoint" />
+            <mxPoint x="275" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Select Course" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-21" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="274.5" y="250" as="sourcePoint" />
+            <mxPoint x="275" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Check Seat Availability" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-25" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="274.5" y="320" as="sourcePoint" />
+            <mxPoint x="275" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Make Payment" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-30" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="274.5" y="130" />
+            </Array>
+            <mxPoint x="274.5" y="110" as="sourcePoint" />
+            <mxPoint x="275" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="274.5" y="390" as="sourcePoint" />
+            <mxPoint x="275" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Enroll Confirmation" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-33" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="274.5" y="460" as="sourcePoint" />
+            <mxPoint x="275" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQq9FhxuOpQFJ9PW46j7-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
